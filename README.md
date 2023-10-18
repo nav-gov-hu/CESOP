@@ -4,9 +4,9 @@
 
 **1) A tárhely tartalma és célja**
 
-A tárhely a Központi Elektronikus Pénzforgalmi-információs Rendszer (CESOP) műszaki specifikációját tartalmazza. A tárhely célja, hogy a NAV ezen webszolgáltatással kapcsolatos elképzeléseit minél szélesebb szakmai közvélemény érje el és tudja véleményezni.
+A tárhely a Központi Elektronikus Pénzforgalmi-információs Rendszer (CESOP) felé történő elektronikus adatszolgáltatás gépi interfészéhez kapcsolódó nyilvános specifikációt tartalmazza. A tárhely célja, hogy a NAV ezen webszolgáltatással kapcsolatos elképzeléseit minél szélesebb szakmai közvélemény érje el és tudja véleményezni.
 
-A GitHub-ra feltöltött specifikációt a végleges specifikáció meghirdetéséig nem lehet véglegesnek tekinteni.
+A mindenkor aktuálisan érvényes hivatalos specifikációk a https://nav.gov.hu/ado/cesop oldalon érhetőek el. A GitHub-ra feltöltött specifikációkat nem lehet hivatalosan kiadott specifikációnak tekinteni.
 
 Kérjük figyelembe venni, hogy bár a tárhely publikusan elérhető, a véleményezéshez és a fejlesztéshez hozzájáruláshoz GitHub userre van szükség. A felhasználó ingyenesen, pár perc alatt létrehozható.
 
