@@ -19,12 +19,12 @@ Minden feladott issue-t megválaszolunk, de kérjük, hogy lehetőség szerint m
 Kérjük a tárgynak megfelelő sablon használatát az issue-k alatt kiválasztani, a következők alapján:
 
 * kérdés esetén: Kérdés-válasz / Q&A issue
-* javaslat esetén: Fejlesztési kérés / Feature request
+* javaslat esetén: Fejlesztési javaslat / Feature suggestion
 * dokumentációs hiba jelzése esetén: Dokumentációs hiba / Documentation error
 
 Kérjük a sablon tárgy mezőjében a címke utáni részt annak megfelelően kitölteni, amire az issue vonatkozik!
 
-A GitHub-on közzétett kérdések, javaslatok kizárólag a specifikáció tartalmával, bevezetési lehetőségeivel kapcsolatban kerülnek megválaszolására. A felületnek nem célja egyéb műszaki, vagy általános adózási kérdések megvitatása.
+A GitHub-on közzétett kérdések, javaslatok kizárólag a specifikáció tartalmával, bevezetési lehetőségeivel kapcsolatban kerülnek megválaszolására. A felületnek nem célja egyéb műszaki, vagy általános adózási kérdések megvitatása. A NAV minden fejlesztési javaslatra nem feltétlenül ad választ, ugyanakkor figyelembe veszi azokat egy esetleges tovább fejlesztés során.
 
 A fenti feltételeknek nem megfelelő issue-kat külön értesítés nélkül törölni fogjuk.
 
