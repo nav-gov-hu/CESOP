@@ -6,7 +6,7 @@
 
 A tárhely a Központi Elektronikus Fizetési Információs Rendszer (CESOP) felé történő elektronikus adatszolgáltatás gépi interfészéhez kapcsolódó nyilvános specifikációt tartalmazza (EBT-CESOP interfész specifikáció). A tárhely célja, hogy a NAV ezen webszolgáltatással kapcsolatos tervezett interfész verzió változásait az érintettek követhessék, illetve észrevételeikkel, javaslataikkal hozzájárulhassanak az interfész fejlesztéséhez.
 
-A mindenkor aktuálisan érvényes hivatalos specifikációk a https://nav.gov.hu/ado/cesop oldalon érhetőek el. A GitHub-ra feltöltött specifikációkat nem lehet hivatalosan kiadott specifikációnak tekinteni. Az EBT-CESOP interfész specifikációban hivatkozott EBT-KKK2 dokumentumok az OpenKKK oldalon érhetőek el.
+A mindenkor aktuálisan érvényes hivatalos specifikációk a https://nav.gov.hu/ado/cesop oldalon érhetőek el. A GitHub-ra feltöltött specifikációkat nem lehet hivatalosan kiadott specifikációnak tekinteni. Az EBT-CESOP interfész specifikációban hivatkozott EBT-KKK2 dokumentumok az [OpenKKK](https://openkkk.nav.gov.hu/_layouts/15/start.aspx#/SitePages/Kezd%C5%91lap.aspx?RootFolder=%2FMegosztott%20dokumentumok%2FSpecifik%C3%A1ci%C3%B3k%2FEBT%20specifik%C3%A1ci%C3%B3k&FolderCTID=0x012000A74CCEA4C7223A438B470FB97E909D83&View=%7B5B23843E%2D50D2%2D42F4%2DBCA7%2D7035A9764A44%7D) oldalon érhetőek el.
 
 Kérjük figyelembe venni, hogy bár a tárhely publikusan elérhető, a véleményezéshez és a fejlesztéshez hozzájáruláshoz GitHub userre van szükség. A felhasználó ingyenesen, pár perc alatt létrehozható.
 
